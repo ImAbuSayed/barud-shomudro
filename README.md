@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/barud-shomudro/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Barud Shomudro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/barud-shomudro/) |
+| **Get License** | [Official Music Licensing for Barud Shomudro](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/barud-shomudro/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তোর চোখের ওই ইশারাতে, মাতাল করা রাত
+> বুকের ভেতর আগুন জ্বলে, ধরলে তোর এই হাত.. তোর এই হাত..
+> আমার মনের বন্ধ ঘরে, উষ্ণতারই ঘ্রাণ
+> তোর ছোঁয়াতে হারায় দিশা, পাগল এই পরান.. পাগল পরান..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
