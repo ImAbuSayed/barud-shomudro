@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Barud Shomudro
+
+This log tracks the cryptographic history and versioning for the song **Barud Shomudro** (barud-shomudro).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T03:20:19.067197 | `v1` | `b22b56c11070ba5b8eb6850c001b21f26b945d55c1258b06c6564b311e8d0668` | `80dd64f99c3b00e0fc9d7236b8bca61b1217792066e2623a43aac63fa2607fbf` | `2026-05-10_barud-shomudro-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
